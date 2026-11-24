@@ -1,0 +1,5 @@
+.tools/
+head_of_cthulhu*.glb
+model.glb
+node_modules/
+*.log
